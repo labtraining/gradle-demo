@@ -1,11 +1,11 @@
-<HTML>
-<HEAD>
-<TITLE> Welcome to my site</TITLE></HEAD>
-<BODY>
-<SCRIPT LANGUAGE="JAVASCRIPT">
+<html>
+<head>
+<title>This is a JavaScript example</title>
+<script language="JavaScript">
 <!--
-document.write("Welcome to my site!");
-// -->
-</SCRIPT>
-</BODY>
-</HTML>
+document.write("Hello World!");
+//-->
+</script>
+</head>
+<body> MS. Pavithra is reading Devops </body>
+</html>
