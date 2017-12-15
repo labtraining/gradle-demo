@@ -6,6 +6,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>JCG Gradle War Project</title>
 </head>
-<body>New Gradle was deployed using jenkins and tomcat free style project
+<body>im 
 </body>
 </html>
